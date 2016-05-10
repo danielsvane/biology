@@ -1,3 +1,11 @@
 body {
     margin: 0;
 }
+
+#canvas_cont {
+    position: relative;
+    width: 100%;
+    padding-top: 50%;
+    border: 1px solid lightgrey;
+    border-radius: 5px;
+}
